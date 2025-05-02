@@ -27,8 +27,7 @@ Our approach extends traditional dense retrieval (DPR) by enabling both the retr
 ## Setup Instructions
 
 1. **Install dependencies**:
-   ```bash
-   pip install transformers faiss-cpu sentence-transformers scikit-learn
+   Simply run the respective cells in the notebook!
 
 2. **Download and preprocess HotpotQA or 2WikiMultiHopQA:**
 
